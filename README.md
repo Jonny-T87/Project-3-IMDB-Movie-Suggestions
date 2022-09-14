@@ -3,7 +3,7 @@
 # IMDB Movie Suggestions for Success 
 
 **Jonny Tesfahun**\
-![My Image](Images\IMDb_Header_Page.jpg)
+![My Image](https://github.com/Jonny-T87/Project-3-IMDB-Movie-Suggestions/blob/main/Images/IMDb_Header_Page.jpg)
 
 ### Analysis of revenue and what makes a movie successful. 
 
